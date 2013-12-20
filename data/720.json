@@ -1,0 +1,237 @@
+﻿[
+{
+    "key":"Positive",
+    "values":[
+    {
+      "label":"涮羊肉",
+      "value":372
+    },
+    {
+      "label":"邓文迪",
+      "value":611
+
+    },
+    {
+      "label":"中山公园",
+      "value":834
+
+    },
+	{
+      "label":"剁椒鱼头",
+      "value":693
+    },
+    {
+      "label":"夫妻肺片",
+      "value":483
+
+    },
+    {
+      "label":"酸菜鱼",
+      "value":455
+
+    },
+	{
+      "label":"蜘蛛侠",
+      "value":532
+    },
+    {
+      "label":"陈道明",
+      "value":630
+
+    },
+    {
+      "label":"李小龙",
+      "value":606
+
+    },
+	{
+      "label":"热干面",
+      "value":563
+    },
+    {
+      "label":"水浒传",
+      "value":590
+
+    },
+    {
+      "label":"索尼爱立信",
+      "value":764
+
+    },
+	
+	{
+      "label":"羊肉串",
+      "value":231
+    },
+    {
+      "label":"鱼香肉丝",
+      "value":401
+
+    },
+    {
+      "label":"羊肉泡馍",
+      "value":298
+
+    }
+	
+    ]
+  },
+
+  {
+    "key":"Neutral",
+    "values":[
+    {
+      "label":"涮羊肉",
+      "value":322
+    },
+    {
+      "label":"邓文迪",
+      "value":247
+
+    },
+    {
+      "label":"中山公园",
+      "value":115
+
+    },
+	{
+      "label":"剁椒鱼头",
+      "value":194
+    },
+    {
+      "label":"夫妻肺片",
+      "value":275
+
+    },
+    {
+      "label":"酸菜鱼",
+      "value":259
+
+    },
+	{
+      "label":"蜘蛛侠",
+      "value":341
+    },
+    {
+      "label":"陈道明",
+      "value":257
+
+    },
+    {
+      "label":"李小龙",
+      "value":320
+
+    },
+	{
+      "label":"热干面",
+      "value":144
+    },
+    {
+      "label":"水浒传",
+      "value":282
+
+    },
+    {
+      "label":"索尼爱立信",
+      "value":56
+
+    },
+	
+	{
+      "label":"羊肉串",
+      "value":300
+    },
+    {
+      "label":"鱼香肉丝",
+      "value":299
+
+    },
+    {
+      "label":"羊肉泡馍",
+      "value":331
+
+    }
+	
+    ]
+  },
+  
+  {
+    "key":"Negative",
+    "values":[
+    {
+      "label":"涮羊肉",
+      "value":333
+    },
+    {
+      "label":"邓文迪",
+      "value":79
+
+    },
+    {
+      "label":"中山公园",
+      "value":53
+
+    },
+	{
+      "label":"剁椒鱼头",
+      "value":157
+    },
+    {
+      "label":"夫妻肺片",
+      "value":232
+
+    },
+    {
+      "label":"酸菜鱼",
+      "value":273
+
+    },
+	{
+      "label":"蜘蛛侠",
+      "value":119
+    },
+    {
+      "label":"陈道明",
+      "value":65
+
+    },
+    {
+      "label":"李小龙",
+      "value":51
+
+    },
+	{
+      "label":"热干面",
+      "value":216
+    },
+    {
+      "label":"水浒传",
+      "value":84
+
+    },
+    {
+      "label":"索尼爱立信",
+      "value":19
+
+    },
+	
+	{
+      "label":"羊肉串",
+      "value":456
+    },
+    {
+      "label":"鱼香肉丝",
+      "value":401
+
+    },
+    {
+      "label":"羊肉泡馍",
+      "value":401
+
+    }
+	
+    ]
+  }
+  
+   
+ ]

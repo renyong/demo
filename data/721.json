@@ -1,0 +1,237 @@
+﻿[
+{
+    "key":"Positive",
+    "values":[
+    {
+      "label":"飞轮海",
+      "value":816
+    },
+    {
+      "label":"独唱团",
+      "value":757
+
+    },
+    {
+      "label":"老人与海",
+      "value":1005
+
+    },
+	{
+      "label":"宇多田光",
+      "value":1008
+    },
+    {
+      "label":"情深深雨蒙蒙",
+      "value":71
+
+    },
+    {
+      "label":"易建联",
+      "value":1292
+
+    },
+	{
+      "label":"周总理",
+      "value":670
+    },
+    {
+      "label":"尹恩惠",
+      "value":541
+
+    },
+    {
+      "label":"张靓颖",
+      "value":622
+
+    },
+	{
+      "label":"美特斯邦威",
+      "value":727
+    },
+    {
+      "label":"雪佛兰",
+      "value":844
+
+    },
+    {
+      "label":"爱马仕",
+      "value":641
+
+    },
+	
+	{
+      "label":"实话实说",
+      "value":281
+    },
+    {
+      "label":"联想电脑",
+      "value":765
+
+    },
+    {
+      "label":"3d眼镜",
+      "value":660
+
+    }
+	
+    ]
+  },
+
+  {
+    "key":"Neutral",
+    "values":[
+    {
+      "label":"飞轮海",
+      "value":345
+    },
+    {
+      "label":"独唱团",
+      "value":308
+
+    },
+    {
+      "label":"老人与海",
+      "value":10
+
+    },
+	{
+      "label":"宇多田光",
+      "value":6
+    },
+    {
+      "label":"情深深雨蒙蒙",
+      "value":48
+
+    },
+    {
+      "label":"易建联",
+      "value":72
+
+    },
+	{
+      "label":"周总理",
+      "value":239
+    },
+    {
+      "label":"尹恩惠",
+      "value":350
+
+    },
+    {
+      "label":"张靓颖",
+      "value":243
+
+    },
+	{
+      "label":"美特斯邦威",
+      "value":210
+    },
+    {
+      "label":"雪佛兰",
+      "value":99
+
+    },
+    {
+      "label":"爱马仕",
+      "value":185
+
+    },
+	
+	{
+      "label":"实话实说",
+      "value":688
+    },
+    {
+      "label":"联想电脑",
+      "value":145
+
+    },
+    {
+      "label":"3d眼镜",
+      "value":224
+
+    }
+	
+    ]
+  },
+  
+    {
+    "key":"Negative",
+    "values":[
+    {
+      "label":"飞轮海",
+      "value":56
+    },
+    {
+      "label":"独唱团",
+      "value":124
+
+    },
+    {
+      "label":"老人与海",
+      "value":7
+
+    },
+	{
+      "label":"宇多田光",
+      "value":1
+    },
+    {
+      "label":"情深深雨蒙蒙",
+      "value":886
+
+    },
+    {
+      "label":"易建联",
+      "value":9
+
+    },
+	{
+      "label":"周总理",
+      "value":73
+    },
+    {
+      "label":"尹恩惠",
+      "value":55
+
+    },
+    {
+      "label":"张靓颖",
+      "value":121
+
+    },
+	{
+      "label":"美特斯邦威",
+      "value":50
+    },
+    {
+      "label":"雪佛兰",
+      "value":32
+
+    },
+    {
+      "label":"爱马仕",
+      "value":125
+
+    },
+	
+	{
+      "label":"实话实说",
+      "value":45
+    },
+    {
+      "label":"联想电脑",
+      "value":67
+
+    },
+    {
+      "label":"3d眼镜",
+      "value":82
+
+    }
+	
+    ]
+  }
+  
+   
+ ]

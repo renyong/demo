@@ -1,0 +1,208 @@
+﻿[
+{
+    "key":"Positive",
+    "values":[
+    {
+      "label":"点球大战",
+      "value":248
+    },
+    {
+      "label":"派出所",
+      "value":387
+
+    },
+    {
+      "label":"听证会",
+      "value":241
+
+    },
+	{
+      "label":"乌拉圭",
+      "value":168
+    },
+    {
+      "label":"科幻片",
+      "value":707
+
+    },
+    {
+      "label":"阿玛尼",
+      "value":314
+
+    },
+	{
+      "label":"运动会",
+      "value":336
+    },
+    {
+      "label":"林心如",
+      "value":267
+
+    },
+    {
+      "label":"新街口",
+      "value":221
+
+    },
+	{
+      "label":"我们仨",
+      "value":267
+    },
+    {
+      "label":"摩托罗拉",
+      "value":571
+
+    },
+    {
+      "label":"东方神起",
+      "value":953
+
+    },
+	
+	{
+      "label":"爱情观",
+      "value":471
+    }
+	
+    ]
+  },
+  
+  {
+    "key":"Neutral",
+    "values":[
+    {
+      "label":"点球大战",
+      "value":672
+    },
+    {
+      "label":"派出所",
+      "value":483
+
+    },
+    {
+      "label":"听证会",
+      "value":567
+
+    },
+	{
+      "label":"乌拉圭",
+      "value":565
+    },
+    {
+      "label":"科幻片",
+      "value":266
+
+    },
+    {
+      "label":"阿玛尼",
+      "value":573
+
+    },
+	{
+      "label":"运动会",
+      "value":496
+    },
+    {
+      "label":"林心如",
+      "value":804
+
+    },
+    {
+      "label":"新街口",
+      "value":641
+
+    },
+	{
+      "label":"我们仨",
+      "value":545
+    },
+    {
+      "label":"摩托罗拉",
+      "value":570
+
+    },
+    {
+      "label":"东方神起",
+      "value":1185
+
+    },
+	
+	{
+      "label":"爱情观",
+      "value":423
+    }
+	
+    ]
+  },
+
+  {
+    "key":"Negative",
+    "values":[
+    {
+      "label":"点球大战",
+      "value":83
+    },
+    {
+      "label":"派出所",
+      "value":135
+
+    },
+    {
+      "label":"听证会",
+      "value":163
+
+    },
+	{
+      "label":"乌拉圭",
+      "value":82
+    },
+    {
+      "label":"科幻片",
+      "value":48
+
+    },
+    {
+      "label":"阿玛尼",
+      "value":130
+
+    },
+	{
+      "label":"运动会",
+      "value":98
+    },
+    {
+      "label":"林心如",
+      "value":120
+
+    },
+    {
+      "label":"新街口",
+      "value":127
+
+    },
+	{
+      "label":"我们仨",
+      "value":106
+    },
+    {
+      "label":"摩托罗拉",
+      "value":31
+
+    },
+    {
+      "label":"东方神起",
+      "value":41
+
+    },
+	
+	{
+      "label":"爱情观",
+      "value":63
+    }
+	
+    ]
+  }
+  
+  
+   
+ ]

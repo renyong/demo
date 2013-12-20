@@ -1,0 +1,236 @@
+﻿[
+{
+    "key":"Positive",
+    "values":[
+    {
+      "label":"嘉年华",
+      "value":768
+    },
+    {
+      "label":"大慈大悲",
+      "value":1447
+
+    },
+    {
+      "label":"观音菩萨",
+      "value":1004
+
+    },
+	{
+      "label":"邓萃雯",
+      "value":811
+    },
+    {
+      "label":"文科生",
+      "value":459
+
+    },
+    {
+      "label":"理科生",
+      "value":442
+
+    },
+	{
+      "label":"白蛇传说",
+      "value":826
+    },
+    {
+      "label":"梁朝伟",
+      "value":549
+
+    },
+    {
+      "label":"一代宗师",
+      "value":511
+
+    },
+	{
+      "label":"衣食父母",
+      "value":635
+    },
+    {
+      "label":"毕业歌",
+      "value":680
+
+    },
+    {
+      "label":"窃听风云",
+      "value":737
+
+    },
+	
+	{
+      "label":"巴西世界杯",
+      "value":893
+    },
+    {
+      "label":"林依轮",
+      "value":47
+
+    },
+    {
+      "label":"王家卫",
+      "value":596
+
+    }
+	
+    ]
+  },
+
+  {
+    "key":"Neutral",
+    "values":[
+    {
+      "label":"嘉年华",
+      "value":190
+    },
+    {
+      "label":"大慈大悲",
+      "value":16
+
+    },
+    {
+      "label":"观音菩萨",
+      "value":137
+
+    },
+	{
+      "label":"邓萃雯",
+      "value":139
+    },
+    {
+      "label":"文科生",
+      "value":340
+
+    },
+    {
+      "label":"理科生",
+      "value":346
+
+    },
+	{
+      "label":"白蛇传说",
+      "value":149
+    },
+    {
+      "label":"梁朝伟",
+      "value":226
+
+    },
+    {
+      "label":"一代宗师",
+      "value":252
+
+    },
+	{
+      "label":"衣食父母",
+      "value":320
+    },
+    {
+      "label":"毕业歌",
+      "value":287
+
+    },
+    {
+      "label":"窃听风云",
+      "value":100
+
+    },
+	
+	{
+      "label":"巴西世界杯",
+      "value":61
+    },
+    {
+      "label":"林依轮",
+      "value":51
+
+    },
+    {
+      "label":"王家卫",
+      "value":230
+
+    }
+	
+    ]
+  },
+  {
+    "key":"Negative",
+    "values":[
+    {
+      "label":"嘉年华",
+      "value":77
+    },
+    {
+      "label":"大慈大悲",
+      "value":1
+
+    },
+    {
+      "label":"观音菩萨",
+      "value":22
+
+    },
+	{
+      "label":"邓萃雯",
+      "value":66
+    },
+    {
+      "label":"文科生",
+      "value":341
+
+    },
+    {
+      "label":"理科生",
+      "value":346
+
+    },
+	{
+      "label":"白蛇传说",
+      "value":41
+    },
+    {
+      "label":"梁朝伟",
+      "value":284
+
+    },
+    {
+      "label":"一代宗师",
+      "value":224
+
+    },
+	{
+      "label":"衣食父母",
+      "value":223
+    },
+    {
+      "label":"毕业歌",
+      "value":40
+
+    },
+    {
+      "label":"窃听风云",
+      "value":27
+
+    },
+	
+	{
+      "label":"巴西世界杯",
+      "value":20
+    },
+    {
+      "label":"林依轮",
+      "value":1299
+
+    },
+    {
+      "label":"王家卫",
+      "value":158
+
+    }
+	
+    ]
+  }
+  
+   
+ ]

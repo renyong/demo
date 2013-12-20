@@ -1,0 +1,238 @@
+﻿[
+{
+    "key":"Positive",
+    "values":[
+    {
+      "label":"亿万富翁",
+      "value":336
+    },
+    {
+      "label":"小霸王",
+      "value":645
+
+    },
+    {
+      "label":"自助游",
+      "value":1026
+
+    },
+	{
+      "label":"京珠高速",
+      "value":335
+    },
+    {
+      "label":"流行趋势",
+      "value":120
+
+    },
+    {
+      "label":"真心话大冒险",
+      "value":761
+
+    },
+	{
+      "label":"责任心",
+      "value":911
+    },
+    {
+      "label":"小兔子",
+      "value":771
+
+    },
+    {
+      "label":"哈根达斯",
+      "value":559
+
+    },
+	{
+      "label":"好习惯",
+      "value":826
+    },
+    {
+      "label":"坏习惯",
+      "value":339
+
+    },
+    {
+      "label":"时光机",
+      "value":609
+
+    },
+	
+	{
+      "label":"新西兰",
+      "value":593
+    },
+    {
+      "label":"土耳其",
+      "value":741
+
+    },
+    {
+      "label":"桑切斯",
+      "value":661
+
+    }
+	
+    ]
+  },
+  
+    {
+    "key":"Neutral",
+    "values":[
+    {
+      "label":"亿万富翁",
+      "value":259
+    },
+    {
+      "label":"小霸王",
+      "value":201
+
+    },
+    {
+      "label":"自助游",
+      "value":1026
+
+    },
+	{
+      "label":"京珠高速",
+      "value":30
+    },
+    {
+      "label":"流行趋势",
+      "value":168
+
+    },
+    {
+      "label":"真心话大冒险",
+      "value":139
+
+    },
+	{
+      "label":"责任心",
+      "value":75
+    },
+    {
+      "label":"小兔子",
+      "value":147
+
+    },
+    {
+      "label":"哈根达斯",
+      "value":347
+
+    },
+	{
+      "label":"好习惯",
+      "value":46
+    },
+    {
+      "label":"坏习惯",
+      "value":171
+
+    },
+    {
+      "label":"时光机",
+      "value":230
+
+    },
+	
+	{
+      "label":"新西兰",
+      "value":263
+    },
+    {
+      "label":"土耳其",
+      "value":163
+
+    },
+    {
+      "label":"桑切斯",
+      "value":163
+
+    }
+	
+    ]
+  },
+  
+    {
+    "key":"Negative",
+    "values":[
+    {
+      "label":"亿万富翁",
+      "value":412
+    },
+    {
+      "label":"小霸王",
+      "value":165
+
+    },
+    {
+      "label":"自助游",
+      "value":13
+
+    },
+	{
+      "label":"京珠高速",
+      "value":276
+    },
+    {
+      "label":"流行趋势",
+      "value":721
+
+    },
+    {
+      "label":"真心话大冒险",
+      "value":67
+
+    },
+	{
+      "label":"责任心",
+      "value":31
+    },
+    {
+      "label":"小兔子",
+      "value":58
+
+    },
+    {
+      "label":"哈根达斯",
+      "value":92
+
+    },
+	{
+      "label":"好习惯",
+      "value":12
+    },
+    {
+      "label":"坏习惯",
+      "value":344
+
+    },
+    {
+      "label":"时光机",
+      "value":157
+
+    },
+	
+	{
+      "label":"新西兰",
+      "value":135
+    },
+    {
+      "label":"土耳其",
+      "value":70
+
+    },
+    {
+      "label":"桑切斯",
+      "value":107
+
+    }
+	
+    ]
+  }
+
+  
+   
+ ]
